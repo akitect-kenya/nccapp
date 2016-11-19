@@ -1,0 +1,110 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "company_name": "akitect",
+      "contact_name": "admin-akitect",
+      "contact_title": "lead-akitect",
+      "address": "Juja Opp. JKUAT",
+      "city": "Juja",
+      "region": "Kiambu",
+      "postal_code": "000100",
+      "country": "Kenya",
+      "phone": "0716296907",
+      "fax": "+3443-4345621"
+    },
+    {
+      "company_name": "akitect",
+      "contact_name": "admin-akitect",
+      "contact_title": "lead-akitect",
+      "address": "Juja Opp. JKUAT",
+      "city": "Juja",
+      "region": "Kiambu",
+      "postal_code": "000100",
+      "country": "Kenya",
+      "phone": "0716296907",
+      "fax": "+3443-4345621",
+      "id": 2
+    },
+    {
+      "company_name": "Gerbox",
+      "contact_name": "admin-gearbox",
+      "contact_title": "lead-gearbox",
+      "address": "Juja Opp. JKUAT",
+      "city": "Juja",
+      "region": "Kiambu",
+      "postal_code": "000100",
+      "country": "Kenya",
+      "phone": "0716296907",
+      "fax": "+3443-4345621",
+      "id": 3
+    }
+  ],
+  "orders": [
+    {
+      "orderId": 1,
+      "customerId": 1,
+      "orderDate": "1/02/2015",
+      "requiredDate": "1/02/2015",
+      "freight": "34kg"
+    },
+    {
+      "orderId": 2,
+      "customerId": 2,
+      "orderDate": "1/02/2015",
+      "requiredDate": "1/02/2015",
+      "freight": "34kg"
+    },
+    {
+      "orderId": 3,
+      "customerId": 1,
+      "orderDate": "1/02/2015",
+      "requiredDate": "1/02/2015",
+      "freight": "34kg"
+    },
+    {
+      "orderId": 4,
+      "customerId": 1,
+      "orderDate": "1/02/2015",
+      "requiredDate": "1/02/2015",
+      "freight": "34kg"
+    }
+  ],
+  "order_details": [
+    {
+      "id": 1,
+      "serviceId": 1,
+      "unit_price": 40000,
+      "quantity": 20,
+      "discount": 1000
+    },
+    {
+      "id": 2,
+      "serviceId": 2,
+      "unit_price": 40000,
+      "quantity": 30,
+      "discount": 1000
+    },
+    {
+      "id": 3,
+      "serviceId": 1,
+      "unit_price": 40000,
+      "quantity": 10,
+      "discount": 100
+    },
+    {
+      "id": 4,
+      "serviceId": 3,
+      "unit_price": 40000,
+      "quantity": 50,
+      "discount": 1000
+    },
+    {
+      "id": 5,
+      "serviceId": 1,
+      "unit_price": 40000,
+      "quantity": 60,
+      "discount": 2000
+    }
+  ]
+}

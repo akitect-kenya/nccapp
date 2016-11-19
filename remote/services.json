@@ -1,0 +1,183 @@
+{
+  "services": [
+    {
+      "service_name": "Security measures",
+      "supplierId": 1,
+      "categoryId": 1,
+      "quantity_per_unit": 2,
+      "unit_price": 400,
+      "units_in_stock": 45,
+      "units_on_order": 100,
+      "record_level": "top",
+      "discontinued": true,
+      "id": 1
+    },
+    {
+      "service_name": "Fictional site",
+      "supplierId": 1,
+      "categoryId": 1,
+      "quantity_per_unit": 2,
+      "unit_price": 400,
+      "units_in_stock": 45,
+      "units_on_order": 100,
+      "record_level": "top",
+      "discontinued": true,
+      "id": 2
+    },
+    {
+      "service_name": "Database storage",
+      "supplierId": 2,
+      "categoryId": 1,
+      "quantity_per_unit": 2,
+      "unit_price": 400,
+      "units_in_stock": 45,
+      "units_on_order": 100,
+      "record_level": "top",
+      "discontinued": true,
+      "id": 3
+    },
+    {
+      "service_name": "Design",
+      "supplierId": 4,
+      "categoryId": 1,
+      "quantity_per_unit": 2,
+      "unit_price": 400,
+      "units_in_stock": 45,
+      "units_on_order": 100,
+      "record_level": "top",
+      "discontinued": true,
+      "id": 4
+    },
+    {
+      "service_name": "Storage services",
+      "supplierId": 3,
+      "categoryId": 1,
+      "quantity_per_unit": 2,
+      "unit_price": 400,
+      "units_in_stock": 45,
+      "units_on_order": 100,
+      "record_level": "top",
+      "discontinued": true,
+      "id": 5
+    },
+    {
+      "service_name": "Deployment",
+      "supplierId": 1,
+      "categoryId": 1,
+      "quantity_per_unit": 2,
+      "unit_price": 400,
+      "units_in_stock": 45,
+      "units_on_order": 100,
+      "record_level": "top",
+      "discontinued": true,
+      "id": 6
+    }
+  ],
+  "suppliers": [
+    {
+      "id": 1,
+      "company_name": "Producers one",
+      "contact_name": "Samuel",
+      "contact_title": "Engineer",
+      "address": "Juja Town",
+      "city": "Thika",
+      "region": "Kiambu",
+      "postal_code": "00100",
+      "country": "Kenya",
+      "phone": "0716296907",
+      "fax": "+254716296907",
+      "homepage": "http://akitect.com"
+    },
+    {
+      "id": 2,
+      "company_name": "Producers",
+      "contact_name": "Samuel",
+      "contact_title": "Engineer",
+      "address": "Juja Town",
+      "city": "Thika",
+      "region": "Kiambu",
+      "postal_code": "00100",
+      "country": "Kenya",
+      "phone": "0716296907",
+      "fax": "+254716296907",
+      "homepage": "http://akitect.com"
+    },
+    {
+      "id": 3,
+      "company_name": "Producers two",
+      "contact_name": "Samuel",
+      "contact_title": "Engineer",
+      "address": "Juja Town",
+      "city": "Thika",
+      "region": "Kiambu",
+      "postal_code": "00100",
+      "country": "Kenya",
+      "phone": "0716296907",
+      "fax": "+254716296907",
+      "homepage": "http://akitect.com"
+    },
+    {
+      "id": 4,
+      "company_name": "Producers three",
+      "contact_name": "Samuel",
+      "contact_title": "Engineer",
+      "address": "Juja Town",
+      "city": "Thika",
+      "region": "Kiambu",
+      "postal_code": "00100",
+      "country": "Kenya",
+      "phone": "0716296907",
+      "fax": "+254716296907",
+      "homepage": "http://akitect.com"
+    },
+    {
+      "id": 5,
+      "company_name": "Producers four",
+      "contact_name": "Samuel",
+      "contact_title": "Engineer",
+      "address": "Juja Town",
+      "city": "Thika",
+      "region": "Kiambu",
+      "postal_code": "00100",
+      "country": "Kenya",
+      "phone": "0716296907",
+      "fax": "+254716296907",
+      "homepage": "http://akitect.com"
+    },
+    {
+      "id": 6,
+      "company_name": "Producers five",
+      "contact_name": "Samuel",
+      "contact_title": "Engineer",
+      "address": "Juja Town",
+      "city": "Thika",
+      "region": "Kiambu",
+      "postal_code": "00100",
+      "country": "Kenya",
+      "phone": "0716296907",
+      "fax": "+254716296907",
+      "homepage": "http://akitect.com"
+    },
+    {
+      "id": 7,
+      "company_name": "Producers six",
+      "contact_name": "Samuel",
+      "contact_title": "Engineer",
+      "address": "Juja Town",
+      "city": "Thika",
+      "region": "Kiambu",
+      "postal_code": "00100",
+      "country": "Kenya",
+      "phone": "0716296907",
+      "fax": "+254716296907",
+      "homepage": "http://akitect.com"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Software development",
+      "description": "This is a software development category"
+    }
+  ]
+}

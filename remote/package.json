@@ -1,0 +1,18 @@
+{
+  "name": "nccapp",
+  "version": "0.0.1",
+  "description": "The mock servers for nccapp",
+  "main": "customers.js",
+  "scripts": {
+    "test": "npm install"
+  },
+  "keywords": [
+    "nccapp"
+  ],
+  "author": "Samuel Kubai <sam@ralphowino.com> (http://ralphowino.com)",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.9.0",
+    "path": "^0.12.7"
+  }
+}
